@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lb_0">0</string>
+    <string name="lb_1">1</string>
+    <string name="lb_2">2</string>
+    <string name="lb_3">3</string>
+    <string name="lb_4">4</string>
+    <string name="lb_5">5</string>
+    <string name="lb_6">6</string>
+    <string name="lb_7">7</string>
+    <string name="lb_8">8</string>
+    <string name="lb_9">9</string>
+
+    <string name="lb_operator_add">+</string>
+    <string name="lb_operator_sub">-</string>
+    <string name="lb_operator_mul">x</string>
+    <string name="lb_operator_div">/</string>
+    <string name="lb_operator_eql">=</string>
+
+    <string name="lb_func_bs">BS</string>
+    <string name="lb_func_ce">CE</string>
+    <string name="lb_func_c">C</string>
+
+</resources>
